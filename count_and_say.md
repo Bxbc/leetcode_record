@@ -1,6 +1,6 @@
-###Count and Say Discription
+### Count and Say Discription
 
-####The Basics:
+#### The Basics:
 The count-and-say sequence is the sequence of integers with the first five terms as following:
 
 >
