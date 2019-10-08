@@ -11,7 +11,7 @@ Assume a BST is defined as follows:
 
 **Example 1:**  
 	
-			2  
+		    2  
 		   / \
 		  1   3  
 		 Input: [2,1,3]
@@ -19,7 +19,7 @@ Assume a BST is defined as follows:
 
 **Exmaple 2:**
 
-			5
+		    5
 		   / \
 		  1   4
 		     / \
