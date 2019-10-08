@@ -1,5 +1,5 @@
 ### Validate Binary Search Tree
-####The Basics
+#### The Basics
 
 Given a bianry tree, determine if it is a valid binary search Tree(BST)
 
