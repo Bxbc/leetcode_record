@@ -6,7 +6,7 @@ Give n a bianry tree, return the bottom-up level order traversal of its nodes' v
 **Example**
 Given binary tree `Given binary tree [3,9,20,null,null,15,7]`,
 
-			3
+		    3
 		   / \
 		  9  20
 		    /  \
