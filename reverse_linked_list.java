@@ -5,7 +5,7 @@ public class reverse_linked_list {
         if(head == null || head.next==null){
             return head;
         }
-        ListNode cur,pre,temp;
+        ListNode pre,temp;
         pre = null;
         while(head != null){
             temp = head.next;
