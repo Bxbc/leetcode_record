@@ -74,7 +74,8 @@ class divide_two_integers_OP2 {
         int n = 0;
         int m = 31;
         for(;m>=0;m--){
-            if((dividend>>>m)-divisor>=0){
+            if((dividend>>>m)-divisor>=0){ // If the divisor is equal to Integer.MIN_VALUE,
+                                            // remember not compare it directly
                 n |= 1<<m;
                 dividend -= divisor<<m;
             }
