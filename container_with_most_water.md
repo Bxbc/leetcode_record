@@ -6,7 +6,7 @@ Given n non-negative integers `a1, a2, ..., an` , where each represents a point 
 
 **Note:** You may not slant the container and n is at least 2.
 
-![](/images/container_with_most_water)
+![](/images/container_with_most_water.png)
 
 **Example:**
 
