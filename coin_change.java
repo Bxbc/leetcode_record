@@ -2,6 +2,7 @@ package leetcode;
 
 class coin_change {
     public int coinChange(int[] coins, int amount) {
+        if(amount==0) return 0;
         int num = coins.length;
         int[] subamount = new int[amount+1];
         subamount[0] = 0;
